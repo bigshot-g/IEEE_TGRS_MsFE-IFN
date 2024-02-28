@@ -5,7 +5,7 @@ Paper web page:
 [Multisource Feature Embedding and Interaction Fusion Network for Coastal Wetland Classification With Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/document/10440316)
 ## Paper
 Please cite our paper if you find the code useful for your research.
-```c
+```
 @ARTICLE{10440316,
   author={Guo, Fangming and Meng, Qiao and Li, Zhongwei and Ren, Guangbo and Wang, Leiquan and Zhang, Jie and Xin, Rongyu and Hu, Yabin},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
