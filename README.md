@@ -3,3 +3,8 @@ With the development of Earth observation technology, hyperspectral image (HSI) 
 ## Paper
 Please cite our paper if you find the code useful for your research.
 ## Requirements
+CUDA Version: 11.3.1
+
+torch: 1.10.0
+
+Python: 3.7.11
